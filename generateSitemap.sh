@@ -1,0 +1,1 @@
+curl -k -X GET "https://api.equusight.com/api/Sitemap/GetSitemap" -H "Accept: application/xml" > public_html/sitemap.xml
